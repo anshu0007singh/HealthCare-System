@@ -1,19 +1,9 @@
 ![App picture](https://github.com/margiki/NHS-nodejs-webapp/blob/master/github_readme_photos/main_picture.jpg)
 
 # Description :point_left:
-It's a web application for managing hospitals rooms and determining the patient's priority for isolation. The app provides a centralised hub for managing the patients and planning their distribution across hospital’s rooms. 
+It's a web application for managing patients and determining the patient's priority for isolation. The app provides a centralised hub for managing the patients and planning their distribution across hospital’s rooms. 
 
-It allows nurses to keep track of the patients and their diseases in real time and to have an overview over the patients and rooms, and better manage the rooms assignment across patients.
-
-# Live demo :rocket:
-https://nhs-app.herokuapp.com/
-* username: admin
-* password: admin
-
-# Youtube video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Q9wTakyRWi4
-" target="_blank"><img src="http://img.youtube.com/vi/Q9wTakyRWi4/0.jpg" 
-alt="Youtube video" width="240" height="180" border="10" /></a>
+It allows nurses or family meembers to keep track of the patients and their diseases in real time and to have an overview over the patients and rooms, and better manage the rooms assignment across patients.
 
 # Prerequisites
 - [x] Node.js 6.9.1 or later - install from https://nodejs.org/
