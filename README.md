@@ -11,7 +11,7 @@ It allows nurses or family meembers to keep track of the patients and their dise
 # Installing - easy :electric_plug:
 1.	Download the repository
 ```
-git clone https://github.com/margiki/NHS-nodejs-webapp
+gh repo clone anshu0007singh/HealthCare-System
 ```
 2.	Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
 3.	Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
