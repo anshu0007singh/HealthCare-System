@@ -111,9 +111,6 @@ URI |	Returns
 # Known bugs :bug:
 1. On some mobiles devices (iPhone, iPad) assigning rooms to patients is not working because mobile browsers doesn’t interpret the double-click. Also, the user can’t enter the patient's page because of the same reason. However, on LG mobile devices this feature works. 
 
-# License 
-Free to use, copy and distribute. :money_with_wings:
-
 
 
 
